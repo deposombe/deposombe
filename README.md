@@ -1,6 +1,6 @@
-# Hi, I'm deposombe
+# Deposombe
 
-Building things on macOS.
+Small Mac apps that take the unnecessary steps out of everyday work.
 
 - Website: https://deposombe.github.io
 
